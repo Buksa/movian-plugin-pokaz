@@ -1,0 +1,12 @@
+{
+    "type": "ecmascript",
+    "apiversion": 2,
+    "id": "pokaz",
+    "file": "index.js",
+    "showtimeVersion": "5",
+    "version": "0.0.1",
+    "author": "Buksa",
+    "title": "pokaz",
+    "icon": "logo.png",
+    "category": "tv"
+}
